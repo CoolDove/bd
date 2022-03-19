@@ -1,0 +1,3 @@
+[submodule "bd/Assets/dools"]
+	path = bd/Assets/dools
+	url = git@github.com:CoolDove/dools.git
